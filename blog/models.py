@@ -1,5 +1,4 @@
 from django.conf import settings
-
 from django.db import models
 from django.db.models.fields import AutoField
 from django.utils import timezone
